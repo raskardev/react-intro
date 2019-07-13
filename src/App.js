@@ -12,6 +12,8 @@ const Title = ({ todosCount }) => (
   </h1>
 );
 
+const test = () => "Hola mundo";
+
 class App extends Component {
   constructor(props) {
     super(props);
