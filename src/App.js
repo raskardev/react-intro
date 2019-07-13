@@ -12,7 +12,7 @@ const Title = ({ todosCount }) => (
   </h1>
 );
 
-const test = (text) => "Hola mundo " + text;
+const test = (text) => "Hola mundo " + text + 'que pasa';
 
 class App extends Component {
   constructor(props) {
